@@ -7,10 +7,10 @@ Use Ubuntu 20.04:
 
 Result: 
  two instant:
-  1. Base   : /var/lib/postgresql/12/main
-     Config : /etc/postgresql/12/main
-     Port   : 5433
+  1. Base   : /var/lib/postgresql/12/main \n
+     Config : /etc/postgresql/12/main \n
+     Port   : 5433 \n
 
-  2. Base   : /var/lib/postgresql/12/db2
+  2. Base   : /var/lib/postgresql/12/db2 
      Config : /etc/postgresql/12/db2
      Port   : 5432
