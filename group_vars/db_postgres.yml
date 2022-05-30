@@ -1,0 +1,11 @@
+#use ubuntu 20.04
+db_count     : 2
+
+db_user1     : admin1
+db_password1 : Passw0rd1
+db_name1     : testdb1
+
+db_user2     : admin2
+db_password2 : Passw0rd2
+db_name2     : testdb2
+

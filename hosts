@@ -1,0 +1,4 @@
+
+[db_postgres]
+ubuntu1 ansible_host=192.168.33.40 ansible_user=root ansible_password="You password"
+
